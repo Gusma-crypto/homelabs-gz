@@ -3,7 +3,7 @@
 Dokumentasi ini menjelaskan cara mengonfigurasi Windows 10 (Home/Pro) agar bisa diakses oleh banyak user secara bersamaan (*concurrent sessions*) menggunakan **RDP Wrapper Library**.
 
 ## 📌 Deskripsi Proyek
-Secara default, Windows 10 mematikan fitur multi-user RDP (menggunakan license). Dengan menggunakan RDP Wrapper, kita bisa memfungsikan Windows 10 layaknya Windows Server, sehingga beberapa user bisa login dan bekerja di desktop masing-masing secara simultan tanpa saling mengeluarkan (*kick*).
+Secara default, Windows 10 mematikan fitur multi-user RDP (menggunakan license). Dengan menggunakan RDP Wrapper Opensource, kita bisa memfungsikan Windows 10 layaknya Windows Server, sehingga beberapa user bisa login dan bekerja di desktop masing-masing secara simultan tanpa saling mengeluarkan (*kick*).
 
 ## 🛠️ Persiapan & Alat
 * **Sistem Operasi:** Windows 10 (Pro disarankan, Home bisa namun terbatas).

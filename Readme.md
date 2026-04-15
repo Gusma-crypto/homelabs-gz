@@ -21,39 +21,65 @@ Selamat datang di repositori infrastruktur IT saya! Repositori ini adalah catata
 Saat ini saya fokus pada perangkat yang efisien untuk menunjang aktivitas belajar dan operasional bisnis IT saya.
 
 ### Compute & Storage
-
 | Device | OS | Role | Specs (Target/Current) |
 | :--- | :--- | :--- | :--- |
 | **Main Server** | Proxmox VE | Virtualization Host | Intel Xeon / Core i5, 32GB+ RAM |
 | **Dev Machine** | Linux / Win | Coding & Daily Driver | High Performance Workstation |
 | **Storage** | Debian/Ubuntu | File Server & Backup | SSD for Boot, HDD for Data |
 
-### Networking & Security
-
-| Device | Description |
-| :--- | :--- |
-| **Starlink/ISP** | Sumber koneksi utama untuk kebutuhan bandwidth tinggi. |
-| **Mikrotik** | Pengaturan bandwidth, VLAN, dan keamanan jaringan lokal. |
-| **CCTV System** | Integrasi keamanan fisik yang dikelola secara mandiri. |
-
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-Sebagai seorang **IT Support Specialist** dan **Full Stack Developer**, berikut adalah teknologi yang aktif saya gunakan dan pelajari:
-
 * **Server:** Proxmox VE, Docker, Linux (Ubuntu, Debian, CentOS).
 * **Frontend:** React, Vite, Tailwind CSS.
 * **Backend & Web3:** Rust, Supabase, Solidity (Arbitrum Stylus).
-* **Tools:** Git, SSH, CLI Power User.
 
 ---
 
-## 📺 Konten Tutorial
+## 🌟 Featured Projects & Latest Tutorial
 
-Saya juga mendokumentasikan proses belajar saya dalam bentuk video tutorial untuk membantu sesama praktisi IT di Indonesia.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 My Projects</h3>
+      <ul>
+        <li>
+          <b><a href="https://github.com/gusma-crypto/ZyfaDonasi">ZyfaDonasi</a></b><br/>
+          Platform donasi Web3 berbasis Arbitrum Stylus (Rust).
+        </li>
+        <li>
+          <b><a href="apps/rdp-windows/">Ruang Cloud</a></b><br/>
+          Solusi RDP Multi-User otomatis dengan Windows 10 & RDPWrap.
+        </li>
+        <li>
+          <b><a href="dev/">Magic Foto 3.1</a></b><br/>
+          PWA Image Editor berbasis AI dengan React & Vite.
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📺 Latest YouTube Tutorial</h3>
+      <a href="https://www.youtube.com/watch?v=ID_VIDEO_ANDA">
+        <img src="https://img.youtube.com/vi/ID_VIDEO_ANDA/maxresdefault.jpg" width="100%" alt="Tutorial Terbaru Gusma Kreatif" style="border-radius:10px;">
+      </a>
+      <p align="center">
+        <b><a href="https://www.youtube.com/watch?v=ID_VIDEO_ANDA">▶ Tonton: Tutorial Optimasi Proxmox & RDP</a></b>
+      </p>
+    </td>
+  </tr>
+</table>
 
-🎥 **Kunjungi YouTube:** [Gusma Kreatif](https://youtube.com/@gusmakreatif)
+---
+
+## 📺 Konten Edukasi
+
+Saya mendokumentasikan proses belajar saya dalam bentuk video tutorial di kanal **Gusma Kreatif**. Berikut adalah beberapa topik utama yang saya bahas:
+
+| Tutorial Proxmox | Tutorial Networking | Web3 Development |
+| :---: | :---: | :---: |
+| [![PVE](https://img.youtube.com/vi/ID_VIDEO_PVE/mqdefault.jpg)](https://www.youtube.com/watch?v=ID_VIDEO_PVE) | [![Net](https://img.youtube.com/vi/ID_VIDEO_NET/mqdefault.jpg)](https://www.youtube.com/watch?v=ID_VIDEO_NET) | [![Web3](https://img.youtube.com/vi/ID_VIDEO_WEB3/mqdefault.jpg)](https://www.youtube.com/watch?v=ID_VIDEO_WEB3) |
+| *Install & Setup* | *Mikrotik & Starlink* | *Rust & Smart Contract* |
 
 ---
 
@@ -61,4 +87,7 @@ Saya juga mendokumentasikan proses belajar saya dalam bentuk video tutorial untu
 
 * **Prinsip:** Lebih baik mencoba dan gagal di lab sendiri daripada takut mencoba sama sekali.
 * **Target:** Membangun infrastruktur server yang otomatis (Automated RDP/Cloud) dan aman.
-*
+* **Pesan:** Jangan lupa lakukan backup berkala sebelum mengubah konfigurasi *critical*.
+
+---
+*Dibuat dengan ❤️ oleh **Agus Sulistiono** (Zyfatech Labs).*
